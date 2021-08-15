@@ -1,5 +1,5 @@
 # Telegram_Bot
-This is the telegram bot using python
+This is the telegram bot using python.
 
 ```Please refer README.docx```
 
